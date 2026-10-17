@@ -17,8 +17,3 @@ Explore our repositories to find a project that interests you.
 
 For questions, collaboration, or contributions, open an issue
 in the relevant repository.find a project that interests you.
-
-## Contact
-
-For questions, collaboration, or contributions, open an issue
-in the relevant repository.
